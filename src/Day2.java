@@ -29,6 +29,7 @@ public class Day2 {
         }
         System.out.println("The sum is: " + sum);
 
+
         // Q5: Write a program to check if a number is prime
         int n = 11;
         boolean isPrime = true;
